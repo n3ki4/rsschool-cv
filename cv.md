@@ -41,3 +41,15 @@ function factorial(n) {
 Unfortunately, I don`t have any work experince, but I have some projects behind my back:
 
 - [Wildlife](https://github.com/rolling-scopes-school/n3ki4-JSFE2021Q1/tree/Wildlife)
+
+# Education
+
+Student of Kyiv Politechnic Institute. Studying in RSSchool for now.
+
+## English level:
+
+### **Upper-Intermediate level**
+
+> Language practice was with my friends,
+> we were organizing some sort of english club
+> and discussed different themes.
